@@ -17,4 +17,6 @@ int main()
 
 	
 	cout << "After the assignment, mat = \n" << mat << endl;
+	
+	cout << "Hello World!" << endl;
 }
